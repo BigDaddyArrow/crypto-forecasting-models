@@ -1,0 +1,27 @@
+Линейная регрессия
+PCA
+https://en.wikipedia.org/wiki/Principal_component_analysis
+
+Средняя коммисия транзакций
+https://ycharts.com/indicators/bitcoin_average_transaction_fee#:~:text=Average%20Bitcoin%20transaction%20fees%20can,from%200.6295%20one%20year%20ago.
+
+Количество активных адресов
+https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount
+
+Сложность сети
+https://www.blockchain.com/charts/difficulty	
+
+Количество биткоинов в обороте
+https://www.blockchain.com/charts/total-bitcoins
+
+Скорость хэширования
+https://www.blockchain.com/charts/hash-rate
+
+Неизрасходованные выходы транзакций
+https://www.blockchain.com/charts/utxo-count
+
+Общая коммисия без учета coinbase
+https://www.blockchain.com/charts/transaction-fees
+
+Стоимость выходов в день
+https://www.blockchain.com/charts/output-volume
