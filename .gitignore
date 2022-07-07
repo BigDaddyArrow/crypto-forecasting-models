@@ -1,2 +1,7 @@
 /g-research-crypto-forecasting/
 /models/
+/train_data/
+/models_tuning/
+/cv_results/
+/old_cv_results/
+/close_predictions/
